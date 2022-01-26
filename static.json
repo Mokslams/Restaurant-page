@@ -1,0 +1,5 @@
+{
+    "root":"restaurant-page",
+    "clean_urls": true,
+    "http_only": true
+}
